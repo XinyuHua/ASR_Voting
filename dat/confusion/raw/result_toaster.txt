@@ -1,0 +1,15 @@
+toaster	21
+wood	4
+dish	4
+wave	4
+drawer	3
+chair	3
+paper	2
+printer	2
+splash	1
+desk	1
+grass	1
+leaf	1
+page+turn	1
+metal	1
+running+water	1

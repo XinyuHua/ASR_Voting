@@ -1,0 +1,3 @@
+bathroom_n02.wav	kitchen
+beach_01.wav	street
+restaurant_n10.wav	street

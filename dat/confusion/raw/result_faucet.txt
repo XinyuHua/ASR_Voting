@@ -1,0 +1,10 @@
+faucet	33
+drain	9
+shower	9
+river	3
+stream	3
+toilet	3
+drink	2
+leaf	2
+applause	1
+running+water	1

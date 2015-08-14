@@ -1,0 +1,100 @@
+bathroom_n01.wav	leaf 0.158783	shower 0.235517	faucet 0.159619	drain 0.142973	paper 0.201403	page+turn 0.06967	grass 0.202451
+bathroom_n02.wav	phone 0.132719	bowl 0.101866	river 0.158748	toilet 0.112846	sand 0.207041	dish 0.129326	laughter 0.099207	drain 0.091597	cuckoo 0.097473
+bathroom_n03.wav	toothbrush 0.53109	drink 0.101053	toilet 0.138832	faucet 0.128576	typewriter 0.132768	toaster 0.08967	sand 0.063009	paper 0.067998
+bathroom_n04.wav	stream 0.285414	rain 0.098086
+bathroom_n05.wav	toilet 0.256627	kettle 0.085826	crowd 0.063733
+bathroom_n06.wav	leaf 0.177796	shower 0.278435	grass 0.224553
+bathroom_n07.wav	toilet 0.212804	river 0.124275	splash 0.154309	faucet 0.079593
+bathroom_n08.wav	toilet 0.289373	splash 0.078718
+bathroom_n09.wav	faucet 0.248075	drain 0.177529	shower 0.216728	toilet 0.178643
+bathroom_n10.wav	faucet 0.548378	shower 0.260801	toilet 0.164876	drain 0.150807	sea 0.087673
+beach_01.wav	truck 0.084691	chair 0.07475	grass 0.062175	traffic 0.059774	sand 0.123945	applause 0.078091	subway 0.091732	bus 0.081136	leaf 0.079	river 0.158784	printer 0.058077	pace 0.123733	toilet 0.049762
+beach_08.wav	subway 0.382845	truck 0.095373	chirp 0.075563	crowd 0.126846	traffic 0.088009	bus 0.081936	tube 0.063544	printer 0.089141	desk 0.08452
+beach_10.wav	pace 0.136515	traffic 0.155852	bus 0.090046	desk 0.063189	tube 0.187615	subway 0.266083	crowd 0.110311	train 0.066348	sand 0.06651
+beach_n03.wav	toilet 0.082803	rain 0.084853	splash 0.132374	stream 0.116525	river 0.157739	kettle 0.112227	seagull 0.394102	siren 0.07736	shower 0.072266	bird 0.096954	sand 0.083941
+beach_n04.wav	splash 0.122181	rain 0.125986	stream 0.12295	kettle 0.121473	seagull 0.114418	toilet 0.060513	bird 0.10373	chirp 0.104102	shower 0.129952	sand 0.09227
+beach_n05.wav	drawer 0.160336	bus 0.156985	river 0.090576	truck 0.082602	crowd 0.082066	tube 0.073976	rain 0.070618	wave 0.074902
+beach_s01.wav	seagull 0.588351	traffic 0.07808	siren 0.138432	bird 0.041617	chirp 0.100904	typewriter 0.096207	printer 0.151091
+beach_s02.wav	seagull 0.438619	typewriter 0.122287	wood 0.072049	siren 0.198873	crow 0.149757	microwave 0.092634	bird 0.128589
+beach_w01.wav	seagull 0.262141	siren 0.114114	bird 0.122473	crow 0.205747	applause 0.06015	splash 0.173371	river 0.101539	stream 0.086254
+beach_w02.wav	seagull 0.203876	siren 0.139016	stream 0.145483	splash 0.187117	river 0.231667	applause 0.108685
+concert_01.wav	applause 0.47962	stream 0.206808	drawer 0.092851	chair 0.084275
+concert_02.wav	applause 0.265328	rain 0.17624	crowd 0.083435	splash 0.11041	traffic 0.214574	bus 0.124545
+concert_03.wav	crowd 0.093859	truck 0.088051	applause 0.439775	rain 0.077798
+concert_04.wav	applause 0.502305	page+turn 0.102109	faucet 0.090098	shower 0.070391	metal 0.126058	vehicle 0.099297
+concert_06.wav	tube 0.158723	crowd 0.231165	subway 0.191829	siren 0.118778	cuckoo 0.120495
+concert_07.wav	applause 0.372958	page+turn 0.100175	wood NaN	wave NaN
+concert_08.wav	traffic 0.11381	subway 0.288105	crowd 0.102105	train 0.255103	tube 0.113164	microwave 0.201083	siren 0.085271	piano 0.078099
+concert_10.wav	vehicle 0.087765	toilet 0.068794	siren 0.098493	crowd 0.084615
+concert_13.wav	applause 0.502305	page+turn 0.102111	faucet 0.090101	shower 0.07039	metal 0.12612	vehicle 0.099355
+concert_n01.wav	crowd 0.224155	laughter 0.095994	piano 0.124565	subway 0.137708	chorus 0.213933	tube 0.239165
+forest_02.wav	pace 0.170508	bus 0.08561	tube 0.145226	traffic 0.08327	crowd 0.096702
+forest_03.wav	sand 0.145874	grass 0.170589	typewriter 0.155152	drink 0.146071	page+turn 0.086354	wood 0.082996
+forest_04.wav	pace 0.102318	wood 0.110165	bird 0.171816	chirp 0.112694	drink 0.107379	sand 0.103057
+forest_06.wav	bird 0.092051	grass 0.076631	river 0.186535	sand 0.068487	chair 0.069346
+forest_07.wav	child 0.17903	talk 0.154215	bird 0.460704	microwave 0.057462	chirp 0.131784
+forest_08.wav	bird 0.313835	kettle 0.230557	wood 0.090586	paper 0.117394	splash 0.103364	crow 0.093995	sand 0.065517
+forest_09.wav	crow 0.284363	child 0.277912	bird 0.141606
+forest_10.wav	sand 0.137464	paper 0.060804	river 0.08979	grass 0.081107	drink 0.120149	chair 0.086171	kettle 0.07913	subway 0.067659
+forest_n01.wav	drawer 0.121952	desk 0.075742	bird 0.394423	chirp 0.064323	crow 0.166018	microwave 0.127313	siren 0.14244
+forest_n02.wav	bird 0.495409	siren 0.112094	crow 0.107247
+kitchen_166.wav	page+turn 0.104944	splash 0.091014	tube 0.163886	train 0.164993
+kitchen_171.wav	microwave 0.658014	page+turn 0.206567	piano 0.057011	pace 0.091834
+kitchen_289.wav	microwave 0.65626	pace 0.170955	drawer 0.149782	phone 0.04559
+kitchen_52.wav	microwave 0.632531	drink 0.099213	toaster 0.113859	vehicle 0.066724	wood 0.175383	page+turn 0.128318
+kitchen_n01.wav	toaster 0.144351	leaf 0.085859	dish 0.212979	desk 0.104811	toilet 0.114121	chair 0.111726	paper 0.149697	bird 0.127257	talk 0.080259	grass 0.091818	sand 0.116097	bowl 0.076373
+kitchen_n02.wav	paper 0.187407	sand 0.144379	page+turn 0.157232	wood 0.113041	chair 0.123765	dish 0.072661	toaster 0.055025	grass 0.148922	shower 0.144116
+kitchen_n04.wav	running+water 0.083759	shower 0.138047	faucet 0.096342	toilet 0.12591	drain 0.071277
+kitchen_n06.wav	desk 0.114735	dish 0.223758	paper 0.187115	metal 0.086987	chair 0.290394	page+turn 0.092389	cutlery 0.127686	splash 0.145512	wood 0.084508
+kitchen_n09.wav	crowd 0.160817	drink 0.157141	child 0.109405	dog 0.152224
+kitchen_n10.wav	drink 0.194335	drain 0.130951	kettle 0.125789	crowd 0.070466
+office_76.wav	paper 0.333893	page+turn 0.144568	sand 0.171822	leaf 0.131411
+office_85.wav	typewriter 0.209206	grass 0.112808	wood 0.126773	printer 0.095264	metal 0.069851	pace 0.182236	page+turn 0.10502
+office_n03.wav	dog 0.149839	traffic 0.089717	dish 0.125095	chair 0.073535	drawer 0.126868	tube 0.0662	subway 0.084843	grass 0.166084	sand 0.143118	splash 0.063195	desk 0.120839	river 0.05837	leaf 0.169468	paper 0.086209
+office_n04.wav	leaf 0.151098	grass 0.206795	paper 0.195288	page+turn 0.127995
+office_n05.wav	paper 0.331756	sand 0.186124	page+turn 0.142702	leaf 0.242685
+office_n06.wav	pace 0.094031	sand 0.116297	crow 0.097315	drink 0.103618	grass 0.108793	page+turn 0.11093	typewriter 0.08693	toothbrush 0.082413	bowl 0.065512	tube 0.136049	chair 0.050307	child 0.063111	wood 0.080909
+office_n07.wav	typewriter 0.262601	chair 0.087073	applause 0.120146	printer 0.087387	wood 0.124352	page+turn 0.137961
+office_n08.wav	drawer 0.153416	desk 0.093438	sand 0.104652	typewriter 0.132299	grass 0.112716	tube 0.076224	drink 0.08706
+office_n09.wav	seagull 0.159316	kettle 0.154521	dish 0.104097	printer 0.082773	sand 0.117133	applause 0.090626	subway 0.085842
+office_n10.wav	microwave 0.238335	traffic 0.116936	tube 0.386623	crowd 0.066907	sand 0.074716	drain 0.071885	desk 0.142773	wood 0.075768	laughter 0.065879	pace 0.080825
+park_05.wav	crow 0.202851	metal 0.107478	kettle 0.30653	bowl 0.177874	bird 0.116172	wood 0.263366	microwave 0.082717
+park_06.wav	siren 0.144492	crow 0.097278	bird 0.183962	microwave 0.174486	metal 0.141545	wood 0.105554	chirp 0.105143
+park_07.wav	dog 0.170243	crow 0.183907	kettle 0.223877
+park_09.wav	kettle 0.274921	applause 0.105957
+park_10.wav	bowl 0.26707	printer 0.160882	drink 0.141015	wood 0.12684
+park_c01.wav	child 0.138356	tube 0.130545	siren 0.188645	cry 0.128854	crowd 0.206024	drain 0.154706	dog 0.123421	cuckoo 0.092437
+park_c02.wav	child 0.217601	phone 0.141668	seagull 0.243359	siren 0.188416	chirp 0.110141	crow 0.094855	cuckoo 0.085816	crowd 0.117506	microwave 0.088552
+park_n01.wav	child 0.136232	drain 0.239494	river 0.101449	toilet 0.078079	drink 0.071537	faucet 0.09548	crowd 0.186154	tube 0.08073	kettle 0.07103	bowl 0.077419	talk 0.058541	siren 0.065732
+park_n02.wav	crowd 0.099649	tube 0.092323	drain 0.133656	bowl 0.078639	child 0.128463	kettle 0.131335	chair 0.09621	river 0.074491	wood 0.07252	sea 0.078159
+park_t03.wav	bus 0.101034	river 0.134027	sand 0.135871	drawer 0.110907	tree 0.079836	traffic 0.091637	pace 0.095297	desk 0.1016
+restaurant_10.wav	subway 0.321037	chair 0.076189	cuckoo 0.060722	bus 0.056688	crowd 0.189553	train 0.113576	tube 0.091993
+restaurant_22.wav	tube 0.177434	grass 0.078849	traffic 0.05717	drink 0.058806	page+turn 0.109359	wood 0.077091	sand 0.057124	crowd 0.069958
+restaurant_5.wav	traffic 0.081797	dog 0.07887	crowd 0.092616	pace 0.0768
+restaurant_n01.wav	crowd 0.245983	printer 0.06738	subway 0.094227	river 0.101019	tube 0.076291	traffic 0.086462
+restaurant_n03.wav	tube 0.136673	microwave 0.113577	crowd 0.097163
+restaurant_n04.wav	subway 0.182932	crowd 0.281216	tube 0.136449	train 0.086485	crow 0.075973	laughter 0.087828	dog 0.086817	stream 0.060541
+restaurant_n06.wav	wood 0.170797	drink 0.085442	child 0.0938	chirp 0.156587	typewriter 0.093893	crow 0.211149	ring 0.158469	page+turn 0.125845
+restaurant_n08.wav	typewriter 0.09132	wood 0.089049	child 0.063623
+restaurant_n09.wav	drink 0.110912	crowd 0.080106	bowl 0.106292	faucet 0.073292	grass 0.069973	wood 0.056064	child 0.097525	laughter 0.108546
+restaurant_n10.wav	dish 0.110515	crowd 0.30284	kettle 0.123245	tube 0.137297	laughter 0.111772	cry 0.100069	drink 0.08228	toilet 0.122376	child 0.122676	subway 0.082428	traffic 0.09516	piano 0.107522
+street_293.wav	pace 0.160264	car 0.154229	bus 0.216997	engine 0.115521	boat 0.10455	traffic 0.103216	wave 0.068397
+street_301.wav	traffic 0.149433	truck 0.148661	subway 0.180837	tube 0.12526	bus 0.19786	dog 0.153428
+street_n01.wav	subway 0.124129	bus 0.109973
+street_n02.wav	traffic 0.188582	bus 0.1729	crowd 0.199021	cutlery 0.0897	stream 0.071495	sea 0.084453	child 0.077983	subway 0.063328
+street_n04.wav	bus 0.206031	traffic 0.17171	truck 0.13519
+street_n05.wav	cry 0.243579	subway 0.191803	cuckoo 0.114937
+street_n07.wav	truck 0.295895	traffic 0.170768	tube 0.149768	bus 0.146823	cuckoo 0.072235	crowd 0.132106	dog 0.251775	wave 0.201586	siren 0.153164	printer 0.102323
+street_n08.wav	wave 0.179288	engine 0.134953	traffic 0.197199	bus 0.17782
+street_n09.wav	engine 0.120738	microwave 0.102733	crowd 0.146834	traffic 0.171256	subway 0.203016	bus 0.244162	car 0.130192
+street_s01.wav	car 0.915139	siren 0.063986
+subway+station_01.wav	crowd 0.20473	subway 0.129097	microwave 0.198111	tube 0.357066	pace 0.192146	train 0.196522	chorus 0.148368
+subway+station_02.wav	crowd 0.269929	rain 0.078087	subway 0.071785
+subway+station_03.wav	crowd 0.137167	subway 0.102404	tube 0.295586	traffic 0.089823	splash 0.047241
+subway+station_04.wav	crowd 0.10562	bird 0.098237	microwave 0.110835	wood 0.092726	traffic 0.084186	kettle 0.070782
+subway+station_05.wav	crow 0.537888	siren 0.152872	traffic 0.104844	crowd 0.134687	subway 0.092692
+subway+station_06.wav	drink 0.099136	siren 0.093762	crowd 0.15833	piano 0.082023	child 0.166474	tube 0.116693	cuckoo 0.101774
+subway+station_07.wav	cuckoo 0.26517	wood 0.088329	subway 0.120463	drink 0.118097	tube 0.119861	siren 0.099647
+subway+station_08.wav	subway 0.211981	drink 0.115555	bowl 0.108792	wood 0.085217	kettle 0.107047	boat 0.185909
+subway+station_09.wav	crowd 0.293714	tube 0.108447	train 0.05975	subway 0.073171
+subway+station_10.wav	crowd 0.177431	tube 0.094232	kettle 0.070075	traffic 0.069081	pace 0.126193	cuckoo 0.100939

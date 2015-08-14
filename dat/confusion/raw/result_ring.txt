@@ -1,0 +1,17 @@
+ring	39
+wood	10
+dish	5
+phone	4
+piano	4
+chirp	3
+child	2
+laughter	2
+page+turn	2
+toothbrush	2
+toaster	1
+chorus	1
+cuckoo	1
+kettle	1
+drink	1
+truck	1
+siren	1

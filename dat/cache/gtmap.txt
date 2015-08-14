@@ -1,0 +1,10 @@
+bathroom	shower 1	dryer 1	toothbrush 1	faucet 1	splash 1	toilet 1
+office	click 1	typewriter 1	door+slam 1	pen 1	write 1	drawer 1	phone 1	fax 1	computer 1	chair 1	footstep 1	scanner 1	printer 1	drink 1	laughter 1	keyboard 1	knob 1	knock 1	paper 1
+restaurant	eat 1	dish 1	drink 1	crowd 1	sip 1	shaker 1	wine 1	laughter 1	cutlery 1	chair 1	bowl 1	chew 1	beer 1
+kitchen	steam 1	toaster 1	fire 1	dish 1	faucet 1	oven 1	egg 1	kettle 1	beep 1	cutlery 1	boil 1	sizzle 1	bowl 1
+street	car 1	bus 1	motor 1	horn 1	crowd 1	bird 1	bicycle 1	engine 1	traffic 1	vehicle 1	footstep 1	siren 1
+beach	sand 1	wave 1	seagull 1	sea 1	child 1	splash 1
+forest	running+water 1	stream 1	bird 1	chirp 1	frog 1	grass 1
+concert	organ 1	piano 1	guitar 1	violin 1	applause 1	cheer 1	sing 1	drum 1	crowd 1
+subway+station	subway 1	footstep 1	beep 1	crowd 1	broadcast 1
+park	leaf 1	child 1	footstep 1	bird 1	tree 1	dog 1	talk 1	laughter 1	grass 1	crow 1

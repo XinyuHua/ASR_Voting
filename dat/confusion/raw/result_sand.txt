@@ -1,0 +1,12 @@
+sand	52
+grass	16
+paper	13
+page+turn	6
+typewriter	5
+leaf	4
+splash	2
+chorus	2
+toaster	1
+applause	1
+river	1
+tree	1

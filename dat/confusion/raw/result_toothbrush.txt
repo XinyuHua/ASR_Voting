@@ -1,0 +1,17 @@
+toothbrush	31
+typewriter	7
+child	4
+leaf	4
+toaster	3
+page+turn	3
+crow	2
+toilet	2
+chirp	2
+bird	1
+grass	1
+dish	1
+seagull	1
+drink	1
+pace	1
+ring	1
+faucet	1

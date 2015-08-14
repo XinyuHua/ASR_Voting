@@ -1,0 +1,13 @@
+paper	55
+page+turn	28
+leaf	9
+grass	4
+sand	4
+typewriter	3
+applause	2
+wood	2
+wave	1
+toothbrush	1
+pace	1
+cutlery	1
+chair	1

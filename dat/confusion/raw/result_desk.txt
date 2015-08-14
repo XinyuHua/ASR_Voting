@@ -1,0 +1,10 @@
+desk	19
+drawer	9
+tube	3
+wave	1
+typewriter	1
+truck	1
+grass	1
+subway	1
+toilet	1
+shower	1

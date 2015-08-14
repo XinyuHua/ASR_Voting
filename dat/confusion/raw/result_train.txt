@@ -1,0 +1,17 @@
+train	36
+tube	12
+subway	11
+bus	4
+cuckoo	3
+desk	2
+engine	2
+wave	2
+truck	2
+child	1
+traffic	1
+microwave	1
+piano	1
+toilet	1
+vehicle	1
+crowd	1
+rain	1

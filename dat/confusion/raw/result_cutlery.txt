@@ -1,0 +1,17 @@
+cutlery	31
+dish	8
+grass	3
+tube	3
+leaf	3
+crowd	3
+toaster	2
+applause	2
+paper	2
+sand	2
+page+turn	2
+shower	2
+traffic	1
+splash	1
+talk	1
+toothbrush	1
+truck	1

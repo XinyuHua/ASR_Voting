@@ -1,0 +1,16 @@
+seagull	32
+bird	8
+child	3
+river	3
+siren	3
+chirp	3
+stream	2
+sand	2
+applause	1
+talk	1
+dish	1
+car	1
+subway	1
+kettle	1
+wave	1
+ring	1

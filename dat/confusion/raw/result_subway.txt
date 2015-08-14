@@ -1,0 +1,13 @@
+subway	64
+train	14
+crowd	14
+bus	12
+traffic	5
+truck	5
+siren	5
+tube	3
+desk	2
+car	1
+piano	1
+vehicle	1
+chirp	1

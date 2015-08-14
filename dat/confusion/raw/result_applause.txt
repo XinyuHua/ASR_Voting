@@ -1,0 +1,16 @@
+applause	25
+stream	5
+laughter	3
+paper	3
+toilet	3
+splash	2
+wood	2
+drink	2
+page+turn	2
+sand	1
+seagull	1
+wave	1
+typewriter	1
+cutlery	1
+crowd	1
+chirp	1

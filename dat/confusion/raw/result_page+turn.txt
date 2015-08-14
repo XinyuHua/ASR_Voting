@@ -1,0 +1,13 @@
+page+turn	36
+paper	20
+grass	5
+sand	2
+drink	2
+typewriter	2
+toaster	1
+engine	1
+leaf	1
+pace	1
+chair	1
+bus	1
+shower	1

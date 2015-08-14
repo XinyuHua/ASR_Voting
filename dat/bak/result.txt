@@ -1,0 +1,10 @@
+restaurant_10.wav	subway+station
+restaurant_22.wav	restaurant
+restaurant_5.wav	concert
+restaurant_n01.wav	subway+station
+restaurant_n03.wav	subway+station
+restaurant_n04.wav	subway+station
+restaurant_n06.wav	bathroom
+restaurant_n08.wav	Unknown
+restaurant_n09.wav	concert
+restaurant_n10.wav	park

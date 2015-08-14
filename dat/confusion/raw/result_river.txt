@@ -1,0 +1,14 @@
+river	51
+stream	15
+rain	10
+microwave	4
+subway	4
+sand	4
+bus	4
+toilet	3
+truck	3
+grass	2
+traffic	1
+splash	1
+pace	1
+shower	1

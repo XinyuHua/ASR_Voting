@@ -1,0 +1,15 @@
+pace	24
+sand	6
+grass	4
+wood	3
+tube	3
+dog	1
+toaster	1
+splash	1
+bird	1
+paper	1
+wave	1
+drink	1
+typewriter	1
+page+turn	1
+chair	1

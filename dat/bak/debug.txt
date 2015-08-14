@@ -1,0 +1,1 @@
+bathroom_n04.wav	stream 0.285414	rain 0.098086	seagull 0.051467	applause 0.050541	printer 0.049931

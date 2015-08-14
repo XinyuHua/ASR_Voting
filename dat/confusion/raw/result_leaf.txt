@@ -1,0 +1,13 @@
+leaf	54
+grass	34
+paper	7
+page+turn	5
+sand	4
+wood	2
+wave	2
+typewriter	2
+toothbrush	2
+child	1
+splash	1
+running+water	1
+shower	1

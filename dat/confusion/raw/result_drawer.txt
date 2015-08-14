@@ -1,0 +1,16 @@
+drawer	32
+desk	10
+chair	4
+microwave	3
+wood	2
+car	2
+tube	2
+bowl	2
+typewriter	2
+chorus	1
+cuckoo	1
+dish	1
+paper	1
+toilet	1
+vehicle	1
+wave	1

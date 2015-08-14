@@ -1,0 +1,12 @@
+tree_10.wav	tree 0.312914	grass 0.080940	sand 0.072900	drink 0.059892	typewriter 0.050318
+tree_10.wav	tree 0.330183	grass 0.083619	drink 0.052573	toothbrush 0.049955	running+water 0.047383
+tree_100.wav	tree 0.695006	river 0.043760	wave 0.039704	toilet 0.026043	rain 0.025644
+tree_100.wav	tree 0.536737	rain 0.090223	stream 0.046477	toilet 0.034706	river 0.032155
+tree_103.wav	toaster 0.200693	page+turn 0.099737	tree 0.059836	dish 0.059710	drawer 0.056522
+tree_103.wav	tree 0.097341	grass 0.093160	page+turn 0.092089	typewriter 0.055286	pace 0.054527
+tree_103.wav	sand 0.187726	grass 0.108760	page+turn 0.075898	paper 0.065612	tree 0.057884
+tree_103.wav	tree 0.090262	sand 0.082440	page+turn 0.070458	drawer 0.059203	toaster 0.055275
+tree_114.wav	tree 0.914225	pace 0.009449	kettle 0.007050	chirp 0.005615	bowl 0.005516
+tree_12.wav	tree 0.850489	bird 0.018848	toaster 0.010444	sea 0.010415	bus 0.009297
+tree_130.wav	tree 0.877950	dish 0.055556	chair 0.013099	bird 0.011321	phone 0.010641
+tree_20.wav	tree 0.926634	pace 0.007994	crowd 0.007837	kettle 0.006418	desk 0.004141

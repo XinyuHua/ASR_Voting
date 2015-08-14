@@ -1,0 +1,13 @@
+running+water	30
+shower	9
+grass	6
+leaf	4
+wood	3
+drink	2
+drawer	2
+tree	2
+faucet	2
+river	1
+toilet	1
+wave	1
+rain	1

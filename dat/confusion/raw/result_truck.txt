@@ -1,0 +1,16 @@
+truck	40
+bus	16
+traffic	7
+subway	6
+crowd	4
+toilet	2
+wave	2
+dog	1
+applause	1
+river	1
+crow	1
+engine	1
+seagull	1
+drain	1
+leaf	1
+chair	1
